@@ -2,8 +2,10 @@
 layout: post
 title:  "Top 10 Python libraries of 2016"
 date:   2016-12-29 18:34:10 +0700
-categories: [python, django]
+categories: [python]
 ---
+
+NOTE: This article was written by Agus Makmun. He created this Jekyll template, along with this post as an example. I found this post to be extremly helpful and decided to include it on my site. Follow Agus Makmun [here](https://github.com/agusmakmun)
 
 Last year, we did a recap with what we thought were the [best Python libraries of 2015](https://tryolabs.com/blog/2015/12/15/top-10-python-libraries-of-2015/), which was widely shared within the Python community (see post in[r/Python](https://www.reddit.com/r/Python/comments/3wyiuv/top_10_python_libraries_of_2015/)). A year has gone by, and again it is time to give due credit for the awesome work that has been done by the **open source community** this year.
 

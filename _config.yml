@@ -1,11 +1,10 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: Blog Posts
+description: My Personal Blog Posts
+author: Hari Devanathan
+github: https://github.com/hd2zm
+about: Aspiring Data Scientist
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+avatar_url: /images/portrait/Head.jpeg
 
 enableTags: true
 tagarray: []
@@ -16,37 +15,21 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/hari-devanathan-16698a36"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
-
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+      link: "https://github.com/hd2zm"
 
 urls:
     - text: About Me
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "http://127.0.0.1:4000"
 baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page/:num/"
 markdown: kramdown
 gems:
-  - jekyll-paginate
   - jekyll-gist
 
 compress_html:

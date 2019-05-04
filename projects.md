@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+Below are some projects I've completed in Data Science and Data Engineering.
