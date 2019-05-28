@@ -35,7 +35,7 @@
 		"slug": "NBA-PlayerImpact",
 		"name": "Predicting NBA Player Impact via Multiple Linear Regression",
 		"image": "NBA-PlayerImpact.png",
-		"url": "https://github.com/hd2zm/Data-Science-Projects/blob/master/Data-Made-Me-Donate/PIT/Showing%20MK's%20Impact%20using%20PIT.ipynb",
+		"url": "https://github.com/hd2zm/Data-Science-Projects/blob/master/NBA-Analytics/Player-Impact-Analysis/Predicting%20NBA%20Player%20Impact%20via%20Multiple%20Linear%20Regression.ipynb",
 		"date": "Feb 2019",
 		"tags": ["Linear Regression", "Machine Learning"]
 	}
