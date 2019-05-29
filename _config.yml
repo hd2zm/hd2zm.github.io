@@ -26,8 +26,8 @@ urls:
     - text: My Projects
       url: /projects/
 
-url: "http://127.0.0.1:4000"
-baseurl: 
+url: "https://hd2zm.github.io/"
+baseurl: "https://hd2zm.github.io/"
 markdown: kramdown
 gems:
   - jekyll-gist
