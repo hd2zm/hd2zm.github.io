@@ -27,7 +27,7 @@ urls:
       url: /projects/
 
 url: "http://127.0.0.1:4000"
-baseurl: ""
+baseurl: 
 markdown: kramdown
 gems:
   - jekyll-gist

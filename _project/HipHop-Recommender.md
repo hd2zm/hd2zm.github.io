@@ -91,7 +91,7 @@ def clean_data_frame(lyrics_df):
     return lyrics_df
 ```
 
-![image]({{site.url}}/images/projects/genius-parser/GeniusParserResultsCleaned.png)
+![image]({{site.baseurl}}/images/projects/genius-parser/GeniusParserResultsCleaned.png)
 
 ### 3. Get Cosine Similarity Matrix
 

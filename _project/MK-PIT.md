@@ -55,11 +55,11 @@ Federal CoC and Federal State has only one entry for DC State. We hardcoded the 
 
 The data frame is shown below.
 
-![image]({{site.url}}/images/projects/MK/PIT/PIT_Data.png)
+![image]({{site.baseurl}}/images/projects/MK/PIT/PIT_Data.png)
 
 Below are descriptive statistics of the data.
 
-![image]({{site.url}}/images/projects/MK/PIT/PIT_Data_Describe.png)
+![image]({{site.baseurl}}/images/projects/MK/PIT/PIT_Data_Describe.png)
 
 
 We can visualize the data as a violin plot. 
@@ -69,7 +69,7 @@ sns.violinplot(x="PIT Categories", y="Sheltered TH Homeless PIT Ratio", data=pd.
 sns.swarmplot(x="PIT Categories", y="Sheltered TH Homeless PIT Ratio", data=pd.melt(ratio_th_pit_df, var_name='PIT Categories', value_name='Sheltered TH Homeless PIT Ratio'), color='k', alpha=0.7)
 ```
 
-![image]({{site.url}}/images/projects/MK/PIT/Violin_Swarm_Plot.png)
+![image]({{site.baseurl}}/images/projects/MK/PIT/Violin_Swarm_Plot.png)
 
 We can see MK PIT has a higher mean, min, and max in the descriptive statistics table. Furthermore, the violin plot shows that MK is having a bigger impact on sheltering homelessness. 
 
@@ -83,7 +83,7 @@ sns.kdeplot(ratio_th_pit_df['Federal State PIT'], bw=0.2)
 sns.kdeplot(ratio_th_pit_df['Federal CoC PIT'], bw=0.2)
 ```
 
-![image]({{site.url}}/images/projects/MK/PIT/T-Distributions.png)
+![image]({{site.baseurl}}/images/projects/MK/PIT/T-Distributions.png)
 
 The distributions show wide tails. We also have 12 elements per PIT data ( < 30 ), three different samples, and quantitative interval data. Based on this, we'll conduct two 2-sample t tests: one with Federal State PIT and MK PIT, another with Federal CoC PIT and MK PIT. Confidence interval both at 95% (0.05 significance level - the probability of making a Type I error).
 
@@ -96,7 +96,7 @@ t, p = stats.ttest_ind(ratio_th_pit_df['MK PIT'].tolist(), ratio_th_pit_df['Fede
 print('MK and Federal State PIT: T-stat=%.3f, p-val=%.3f' % (t, p))
 ```
 
-![image]({{site.url}}/images/projects/MK/PIT/MK_State_T_Test.png)
+![image]({{site.baseurl}}/images/projects/MK/PIT/MK_State_T_Test.png)
 
 Since the p-value is less than our significance level, we reject our null hypothesis. MK strongly impacts Federal State PIT data. 
 
@@ -109,7 +109,7 @@ t, p = stats.ttest_ind(ratio_th_pit_df['MK PIT'].tolist(), ratio_th_pit_df['Fede
 print('MK and Federal CoC PIT: T-stat=%.3f, p-val=%.3f' % (t, p))
 ```
 
-![image]({{site.url}}/images/projects/MK/PIT/MK_CoC_T_Test.png)
+![image]({{site.baseurl}}/images/projects/MK/PIT/MK_CoC_T_Test.png)
 
 Since the p-value is less than our significance level, we reject our null hypothesis. MK strongly impacts Federal CoC PIT data.
 
