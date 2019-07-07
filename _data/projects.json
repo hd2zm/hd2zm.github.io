@@ -1,5 +1,13 @@
 [
 	{
+		"slug": "NYC-MTA",
+		"name": "Analyzing New York Subway Data to Optimize Street Team Efficiency",
+		"image": "NYC_MTA.png",
+		"url": "",
+		"date": "July 2019",
+		"tags": ["EDA", "Visualizations", "Metis"]
+	},
+	{
 		"slug": "HipHop-Recommender",
 		"name": "Recommender System of Top Hip Hop Singles",
 		"image": "HipHop-Recommender.jpg",
@@ -29,7 +37,7 @@
 		"image": "MK_PIT.png",
 		"url": "https://github.com/hd2zm/Data-Science-Projects/blob/master/Data-Made-Me-Donate/PIT/Showing%20MK's%20Impact%20using%20PIT.ipynb",
 		"date": "Feb 2019",
-		"tags": ["Visualization","Statistics"]
+		"tags": ["EDA", "Visualizations", "Statistics"]
 	},	
 	{
 		"slug": "NBA-PlayerImpact",

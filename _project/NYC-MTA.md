@@ -78,18 +78,18 @@ While these averages are good, we also wanted to see how much the data varies. D
 
 So there isn't much variabilitiy within our data, which is good. Although some data points have a lot of outliers. We also noticed that for morning and afternoon rush, the top 5 stations are the same (34 ST-PENN STA, GRD CNTRL-42 ST, 34 ST-HERALD SQ, TIMES SQ-42 ST, 23 ST). Those are the stations we should focus on. 
 
+Below is a bar graph zoomed in on the 5 stations per weekday.
+
+![image]({{site.url}}/images/projects/NYC-MTA/5_Stations_Day_Bar.png)
+
 # Conclusion
 
 If WTWY can get 4-10 volunteers for only 1 day, they should follow these recommendations
-* Assign 2 volunteers to each station in order of importance: 34 ST-PENN STA, GRD CNTRL-42 ST, 34 ST-HERALD SQ, TIMES SQ-42 ST, 23 ST
+* Assign 2 volunteers to each station in order of importance: GRD CNTRL-42 ST, 34 ST-PENN STA, 34 ST-HERALD SQ, TIMES SQ-42 ST, 23 ST
 * Take a 2 hour time slot between 4pm - 8pm 
 * Choose either Tuesday, Wednesday, or Thursday
 
 # Appendix
-
-Below is a bar graph zoomed in on the 5 stations per day.
-
-![image]({{site.url}}/images/projects/NYC-MTA/5_Stations_Day_Bar.png)
 
 Below is a time series graph of the 5 stations per day.
 
