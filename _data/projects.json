@@ -1,5 +1,13 @@
 [
 	{
+		"slug": "Used-Cars-Cost-Predictor",
+		"name": "Predicting Used Car Prices in Chicago",
+		"image": "Used_Cars_Cost_Predictor.png",
+		"url": "",
+		"date": "July 2019",
+		"tags": ["Linear Regression", "Machine Learning", "Metis"]
+	},
+	{
 		"slug": "NYC-MTA",
 		"name": "Analyzing New York Subway Data to Optimize Street Team Efficiency",
 		"image": "NYC_MTA.png",
