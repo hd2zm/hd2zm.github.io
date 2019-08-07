@@ -1,5 +1,13 @@
 [
 	{
+		"slug": "Music-Genre-Predictor",
+		"name": "Multiclass Classification of Music Primary Genres",
+		"image": "Music_Genre_Predictor.png",
+		"url": "",
+		"date": "August 2019",
+		"tags": ["Classification", "Machine Learning", "Metis"]
+	},
+	{
 		"slug": "Used-Cars-Cost-Predictor",
 		"name": "Predicting Used Car Prices in Chicago",
 		"image": "Used_Cars_Cost_Predictor.png",
@@ -37,7 +45,7 @@
 		"image": "NBA-AllStar.png",
 		"url": "https://github.com/hd2zm/Data-Science-Projects/blob/master/NBA-Analytics/All-Star-Analysis/Predicting%20NBA%20All-Star%20Appearances%20with%20Player%20Measurements.ipynb",
 		"date": "Mar 2019",
-		"tags": ["Logistic Regression", "Machine Learning"]
+		"tags": ["Classification", "Machine Learning"]
 	},
 	{
 		"slug": "MK-PIT",
