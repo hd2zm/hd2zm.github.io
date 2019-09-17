@@ -28,6 +28,8 @@ urls:
 
 url: "https://hd2zm.github.io/"
 baseurl: "https://hd2zm.github.io/"
+#url: ""
+#baseurl: ""
 markdown: kramdown
 gems:
   - jekyll-gist
