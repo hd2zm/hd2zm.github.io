@@ -1,4 +1,12 @@
-[
+[	
+	{
+		"slug": "Clustering-Amazon-Book-Reviews",
+		"name": "Clustering Amazon Book Reviews from 2005",
+		"image": "Amazon_Books.png",
+		"url": "",
+		"date": "August 2019",
+		"tags": ["NLP", "Clustering", "Machine Learning", "Metis"]
+	},
 	{
 		"slug": "Music-Genre-Predictor",
 		"name": "Multiclass Classification of Music Primary Genres",
