@@ -17,6 +17,6 @@ Previously, I was a Software Engineer who worked at some of the following compan
 - **Gannett** I was a full-stack developer in Javascript/Node.js. I collaborated with engineers on implementing CQRS and event sourcing for the microservice level architecture. 
 
 
-Check out my [resume](/files/Resume_Hari_Devanathan.pdf) for more details.
+Check out my [resume]({{site.url}}{% link /files/Resume_Hari_Devanathan.pdf %}) for more details.
 
 email: hd2zm@virginia.edu
