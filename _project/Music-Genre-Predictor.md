@@ -20,7 +20,7 @@ A lot of songs overlap with different genres. Linkin Park's In the End was brand
 
 With so many songs overlapping various genres, I wondered if there is a way to predict the primary genre of a song. Can I predict whether the primary genre is Rock, Hip-Hop, or Electronic? 
 
-This was more of a fun project and has little business applications. But what drove me to this project was the usage of music data from Spotify/Echonest. In addition, I wanted to learn more about creating a multi-classifier model, which could serve as a baseline for predicting non-binary categories in business. 
+This was more of a fun project. But what drove me to this project was the usage of music data from Spotify/Echonest. In addition, I wanted to learn more about creating a multi-classifier model, which could serve as a baseline for predicting non-binary categories in business. 
 
 ## Project Overview
 
