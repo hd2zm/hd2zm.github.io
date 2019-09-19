@@ -3,7 +3,7 @@
 		"slug": "Clustering-Amazon-Book-Reviews",
 		"name": "Clustering Amazon Book Reviews from 2005",
 		"image": "Amazon_Books.png",
-		"url": "",
+		"url": "https://github.com/hd2zm/Data-Science-Projects/tree/master/Amazon-Book-Reviews",
 		"date": "August 2019",
 		"tags": ["NLP", "Clustering", "Machine Learning", "Metis"]
 	},
@@ -11,7 +11,7 @@
 		"slug": "Music-Genre-Predictor",
 		"name": "Multiclass Classification of Music Primary Genres",
 		"image": "Music_Genre_Predictor.png",
-		"url": "",
+		"url": "https://github.com/hd2zm/Data-Science-Projects/tree/master/Multiclass-Genre-Predictor",
 		"date": "August 2019",
 		"tags": ["Classification", "Machine Learning", "Metis"]
 	},
@@ -19,7 +19,7 @@
 		"slug": "Used-Cars-Cost-Predictor",
 		"name": "Predicting Used Car Prices in Chicago",
 		"image": "Used_Cars_Cost_Predictor.png",
-		"url": "",
+		"url": "https://github.com/hd2zm/Data-Science-Projects/tree/master/Used-Car-Predictions",
 		"date": "July 2019",
 		"tags": ["Linear Regression", "Machine Learning", "Metis"]
 	},
@@ -27,7 +27,7 @@
 		"slug": "NYC-MTA",
 		"name": "Analyzing New York Subway Data to Optimize Street Team Efficiency",
 		"image": "NYC_MTA.png",
-		"url": "",
+		"url": "https://github.com/hd2zm/Data-Science-Projects/tree/master/NYC-MTA",
 		"date": "July 2019",
 		"tags": ["EDA", "Visualizations", "Metis"]
 	},
@@ -35,7 +35,7 @@
 		"slug": "HipHop-Recommender",
 		"name": "Recommender System of Top Hip Hop Singles",
 		"image": "HipHop-Recommender.jpg",
-		"url": "https://github.com/hd2zm/Data-Science-Projects/blob/master/Music/Genius/SongRecommender.py",
+		"url": "https://github.com/hd2zm/Data-Science-Projects/tree/master/Music/Genius",
 		"date": "Apr 2019",
 		"tags": ["NLP", "Recommender System", "Machine Learning"]
 	},	
