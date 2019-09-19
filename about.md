@@ -19,6 +19,6 @@ Previously, I was a Software Engineer who worked at some of the following compan
 
 Check out my [resume][1] for more details.
 
-[1]:({{ site.url }}files/Resume_Hari_Devanathan.pdf)
+[1]:({{ site.url }}/files/Resume_Hari_Devanathan.pdf)
 
 email: hd2zm@virginia.edu
