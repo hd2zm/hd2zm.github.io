@@ -1,4 +1,11 @@
-[	
+[	{
+		"slug": "Analyzing-Tech-Stocks",
+		"name": "Analyzing Tech Stocks of the Big 5 Tech Companies",
+		"image": "Analyzing_Tech_Stocks.png",
+		"url": "",
+		"date": "September 2019",
+		"tags": ["Time Series", "Airflow", "Machine Learning", "Metis"]
+	},
 	{
 		"slug": "Clustering-Amazon-Book-Reviews",
 		"name": "Clustering Amazon Book Reviews from 2005",
@@ -13,7 +20,7 @@
 		"image": "Music_Genre_Predictor.png",
 		"url": "https://github.com/hd2zm/Data-Science-Projects/tree/master/Multiclass-Genre-Predictor",
 		"date": "August 2019",
-		"tags": ["Classification", "Machine Learning", "Metis"]
+		"tags": ["Classification", "Docker", "Machine Learning", "Metis"]
 	},
 	{
 		"slug": "Used-Cars-Cost-Predictor",
