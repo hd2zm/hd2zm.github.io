@@ -20,4 +20,3 @@ Previously, I was a Software Engineer who worked at some of the following compan
 Check out my [resume]({{site.url}}{% link /files/Resume_Hari_Devanathan.pdf %}) for more details.
 
 email: hd2zm@virginia.edu
-s
